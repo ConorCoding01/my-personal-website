@@ -1,3 +1,35 @@
 body {
-    background: blue;
+    background: rgb(97, 96, 96);
+    border-color: whitesmoke;
 }
+
+  #Welcome {
+    text-align: center;
+    font-size: 35px;
+    border-radius: 15px;
+    background: #c0bfbf;
+    padding: 15px;
+    width: auto;
+    height: 50px;
+  }
+
+  #firsth2 {
+    text-align: center;
+    padding: 15px;
+  }
+
+  #firstp {
+    margin: auto;
+    width: 40%;
+    border-radius: 20px;
+    background: lightgray;
+    padding: 15px;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    padding: 15px;
+  }
